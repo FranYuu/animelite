@@ -1,0 +1,45 @@
+﻿<Application x:Class="AnimElite.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AnimElite"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        
+        <!--Ceci va permettre de donner des attributs spécifiques aux balises TextBlock qui adopteront ce style -->
+        <Style x:Key="AnimeName" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>           
+        </Style>
+        
+        <!-- propriété des lettres dans le master-->
+        <Style x:Key="AnimeLetter" TargetType="TextBlock">           
+            <Setter Property="FontSize" Value="18"/>
+        </Style>
+        
+        <!--propriété pour tous les titres de page  -->
+        <Style x:Key="AnimeTitle" TargetType="TextBlock">
+            <Setter Property="TextElement.FontFamily" Value="FontCustom/#Earwig Factory"/>
+            <Setter Property="FontSize" Value="100"/>
+        </Style>
+        
+        <Style x:Key="AnimeTitleListed" TargetType="TextBlock">
+            <Setter Property="TextElement.FontFamily" Value="/FontCustom/#Earwig Factory"/>
+            <Setter Property="FontSize" Value="70"/>
+        </Style>
+        
+        <!--propriété pour tous les titres de page d'anime  -->
+        <Style x:Key="AnimeTitlebis" TargetType="TextBlock">
+            <Setter Property="TextElement.FontFamily" Value="FontCustom/#Earwig Factory"/>
+            <Setter Property="FontSize" Value="40"/>
+        </Style>
+        
+       
+        <Style x:Key="AnimeNomListed" TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Margin" Value="10,10,20,10"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+
+    </Application.Resources>
+</Application>

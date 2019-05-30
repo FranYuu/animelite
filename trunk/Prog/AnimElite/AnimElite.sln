@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimElite", "AnimElite\AnimElite.csproj", "{46101913-BF69-475B-80EC-CC592135DCE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{57CCEE8B-1A77-403A-8CE8-F6E53FD94E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metier", "ClassLibrary1\Metier.csproj", "{0A830E7F-1464-4F4E-9EE7-CE4D0B842F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "ConsoleApplication1\TestConsole.csproj", "{A7869F72-53AA-4A82-973D-B772E874B961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRechercheAnime", "ConsoleApp1\TestRechercheAnime.csproj", "{F388260E-464E-4544-8812-41F1C92755CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestChargementAnime", "TestChargementAnime\TestChargementAnime.csproj", "{D5477A52-4C5D-420F-AD31-8267FAEBC224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSauvergardeXML", "TestSauvergardeXML\TestSauvergardeXML.csproj", "{158DB28D-7BA1-4B33-B125-B436A1B08FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46101913-BF69-475B-80EC-CC592135DCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46101913-BF69-475B-80EC-CC592135DCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46101913-BF69-475B-80EC-CC592135DCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46101913-BF69-475B-80EC-CC592135DCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A830E7F-1464-4F4E-9EE7-CE4D0B842F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A830E7F-1464-4F4E-9EE7-CE4D0B842F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A830E7F-1464-4F4E-9EE7-CE4D0B842F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A830E7F-1464-4F4E-9EE7-CE4D0B842F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7869F72-53AA-4A82-973D-B772E874B961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7869F72-53AA-4A82-973D-B772E874B961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7869F72-53AA-4A82-973D-B772E874B961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7869F72-53AA-4A82-973D-B772E874B961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F388260E-464E-4544-8812-41F1C92755CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F388260E-464E-4544-8812-41F1C92755CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F388260E-464E-4544-8812-41F1C92755CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F388260E-464E-4544-8812-41F1C92755CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5477A52-4C5D-420F-AD31-8267FAEBC224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5477A52-4C5D-420F-AD31-8267FAEBC224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5477A52-4C5D-420F-AD31-8267FAEBC224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5477A52-4C5D-420F-AD31-8267FAEBC224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158DB28D-7BA1-4B33-B125-B436A1B08FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158DB28D-7BA1-4B33-B125-B436A1B08FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158DB28D-7BA1-4B33-B125-B436A1B08FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158DB28D-7BA1-4B33-B125-B436A1B08FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A7869F72-53AA-4A82-973D-B772E874B961} = {57CCEE8B-1A77-403A-8CE8-F6E53FD94E58}
+		{F388260E-464E-4544-8812-41F1C92755CC} = {57CCEE8B-1A77-403A-8CE8-F6E53FD94E58}
+		{D5477A52-4C5D-420F-AD31-8267FAEBC224} = {57CCEE8B-1A77-403A-8CE8-F6E53FD94E58}
+		{158DB28D-7BA1-4B33-B125-B436A1B08FDC} = {57CCEE8B-1A77-403A-8CE8-F6E53FD94E58}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D456BA03-6632-46DB-8236-290C25E72B6B}
+	EndGlobalSection
+EndGlobal

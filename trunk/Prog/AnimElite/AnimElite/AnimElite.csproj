@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{46101913-BF69-475B-80EC-CC592135DCE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AnimElite</RootNamespace>
+    <AssemblyName>AnimElite</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="EndCard.xaml.cs">
+      <DependentUpon>EndCard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorHandling.xaml.cs">
+      <DependentUpon>ErrorHandling.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Favoris.xaml.cs">
+      <DependentUpon>Favoris.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SeeYouSpaceCowboy.xaml.cs">
+      <DependentUpon>SeeYouSpaceCowboy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SelectAnime.xaml.cs">
+      <DependentUpon>SelectAnime.xaml</DependentUpon>
+    </Compile>
+    <Page Include="EndCard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ErrorHandling.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainMenu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainMenu.xaml.cs">
+      <DependentUpon>MainMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Favoris.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageAnime.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SeeYouSpaceCowboy.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SelectAnime.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PageAnime.xaml.cs">
+      <DependentUpon>PageAnime.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Resource Include="FontCustom\earwigfactoryrg.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\Metier.csproj">
+      <Project>{0A830E7F-1464-4F4E-9EE7-CE4D0B842F57}</Project>
+      <Name>Metier</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\favoris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\SeeYou.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\IsFavori.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Save\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\2d9.png" />
+    <Resource Include="Image\Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\AnimePics\Blend-S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\AnimePics\Darling-in-the-FranXX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\AnimePics\Jojos-Bizarre-Adventure-2012.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\AnimePics\Tokyo-ghoul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\AnimePics\A-place-Further-than-the-Universe.png" />
+    <Resource Include="Image\AnimePics\A-Silent-Voice.png" />
+    <Resource Include="Image\AnimePics\Amagi-Brilliant-Park.png" />
+    <Resource Include="Image\AnimePics\Ashita-no-Joe.png" />
+    <Resource Include="Image\AnimePics\Dagashi-Kashi.png" />
+    <Resource Include="Image\AnimePics\Danganronpa-the-Animation.png" />
+    <Resource Include="Image\AnimePics\Devilman-Crybaby.png" />
+    <Resource Include="Image\AnimePics\Dragon-Ball-GT.png" />
+    <Resource Include="Image\AnimePics\Jojos-Bizarre-Adventure-Diamond-is-Unbreakable.png" />
+    <Resource Include="Image\AnimePics\Jojos-Bizarre-Adventure-Stardust-Crusaders.png" />
+    <Resource Include="Image\AnimePics\Kemono-Friends.png" />
+    <Resource Include="Image\AnimePics\Konosuba-Gods-Blessing-on-this-wonderful-world.png" />
+    <Resource Include="Image\AnimePics\Megalo-box.png" />
+    <Resource Include="Image\AnimePics\Miss-kobayashis-dragon-maid.png" />
+    <Resource Include="Image\AnimePics\My-Hero-Academia-2.png" />
+    <Resource Include="Image\AnimePics\My-Hero-Academia-3.png" />
+    <Resource Include="Image\AnimePics\My-Hero-Academia.png" />
+    <Resource Include="Image\AnimePics\Persona-4-The-Animation.png" />
+    <Resource Include="Image\AnimePics\Persona-4-The-Golden-Animation.png" />
+    <Resource Include="Image\AnimePics\Persona-5-The-Animation.png" />
+    <Resource Include="Image\AnimePics\Super-Danganronpa-2-5-Komaeda-Nagito-to-sekai-no-hakaisha.png" />
+    <Resource Include="Image\AnimePics\Sword-Art-Online-II.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\AnimePics\Cowboy-Bebop.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

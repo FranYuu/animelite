@@ -1,0 +1,108 @@
+C:\Users\addebritor\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\addebritor\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\addebritor\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\addebritor\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\addebritor\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\addebritor\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\addebritor\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\addebritor\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\frcalvet1\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\frcalvet1\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\frcalvet1\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\frcalvet1\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\frcalvet1\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\frcalvet1\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\frcalvet1\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\frcalvet1\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CoreCompileInputs.cache
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\addebritor\Desktop\projet2\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CoreCompileInputs.cache
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\addebritor\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojAssemblyReference.cache
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CoreCompileInputs.cache
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\François\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CopyComplete
+C:\Users\TEMP.IUT\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\TEMP.IUT\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\TEMP.IUT\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\TEMP.IUT\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\TEMP.IUT\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\TEMP.IUT\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.IUT\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\TEMP.IUT\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CoreCompileInputs.cache
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CopyComplete
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Calvet\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CopyComplete
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojAssemblyReference.cache
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CoreCompileInputs.cache
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CopyComplete
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\François\Desktop\Nouveau dossier (5)\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\frcalvet1\Desktop\Nouveau dossier (2)\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\frcalvet1\Desktop\Nouveau dossier (2)\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\frcalvet1\Desktop\Nouveau dossier (2)\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\frcalvet1\Desktop\Nouveau dossier (2)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\frcalvet1\Desktop\Nouveau dossier (2)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\frcalvet1\Desktop\Nouveau dossier (2)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\frcalvet1\Desktop\Nouveau dossier (2)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\frcalvet1\Desktop\Nouveau dossier (2)\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\frcalvet1\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\frcalvet1\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\frcalvet1\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\frcalvet1\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\frcalvet1\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\frcalvet1\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\frcalvet1\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\frcalvet1\Desktop\Nouveau dossier\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csprojAssemblyReference.cache
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CoreCompileInputs.cache
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\Metier.csproj.CopyComplete
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\François\Desktop\anim-elite\trunk\Prog\AnimElite\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

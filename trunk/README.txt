@@ -1,0 +1,2 @@
+Dans l'application, trois animes ne fonctionnent pas. "Oliver e Benji" , "Zoro" et "Saiki Kusuo no phi-san". 
+Ils ont été consérvés afin de pouvoir teste le cas d'un anime ne figurant pas dans la base de données du site hôtes.

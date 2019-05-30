@@ -1,0 +1,53 @@
+﻿<Window x:Class="AnimElite.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimElite"
+        mc:Ignorable="d"
+        Title="Anim'Elite" MinHeight="720" MinWidth="940"
+        Closed="Window_Closed"
+        >
+    <Window.Background>
+        <ImageBrush TileMode="None" ImageSource="Image/Background.png" />
+    </Window.Background>
+    <DockPanel >
+        <!--rpermet de scroll si toutes les lettres ne sont pas visibles si la fenêtre est trop petite-->
+        <ScrollViewer DockPanel.Dock="Left" Width="180" VerticalAlignment="Stretch" HorizontalAlignment="Left">
+            <ScrollViewer.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF350347" Offset="1"/>
+                    <GradientStop Color="#FFD35050"/>
+                </LinearGradientBrush>
+            </ScrollViewer.Background>
+            <StackPanel VerticalAlignment="Stretch" Width="165">
+                <Button Name="MenuPrincipal" Click="Button_MenuPrincipal" Visibility="Collapsed" Margin="5">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="0.088"/>
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="Red" Offset="0.941"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                    Home
+                </Button>
+                <!--permet d'accéder aux favoris-->
+                <Button Click="Button_Click" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="14">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White" Offset="0.088"/>
+                            <GradientStop Color="White" Offset="1"/>
+                            <GradientStop Color="Red" Offset="0.941"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                    Accéder à mes favoris
+                </Button>
+                <!--La ListBox qui suit permettra à l'utilisateur d'accèder à une page listant les animes commencant par cette lettre-->
+                <ListBox Name="Liste" FontSize="25" VerticalAlignment="Stretch" Foreground="AliceBlue" BorderThickness="0" MouseDoubleClick="Liste_MouseDoubleClick" Background="Transparent" ItemsSource="{Binding Alphabet}"  />
+
+            </StackPanel>
+        </ScrollViewer>
+        <!--Le Frame permet de charger les pages de chaque anime ainsi que les listes et le menu principal-->
+        <Frame Name="Detail" DockPanel.Dock="Right" Source="MainMenu.xaml" />
+    </DockPanel>
+</Window>

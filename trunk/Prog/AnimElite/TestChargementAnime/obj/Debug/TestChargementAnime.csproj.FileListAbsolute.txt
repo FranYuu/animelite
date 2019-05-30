@@ -1,0 +1,13 @@
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\bin\Debug\TestChargementAnime.exe.config
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\bin\Debug\TestChargementAnime.exe
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\bin\Debug\TestChargementAnime.pdb
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\bin\Debug\ClassLibrary1.dll
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\bin\Debug\ClassLibrary1.pdb
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\obj\Debug\TestChargementAnime.csprojResolveAssemblyReference.cache
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\obj\Debug\TestChargementAnime.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\obj\Debug\TestChargementAnime.csproj.CopyComplete
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\obj\Debug\TestChargementAnime.exe
+C:\Users\Adrien\Desktop\projet\trunk\Prog\AnimElite\TestChargementAnime\obj\Debug\TestChargementAnime.pdb

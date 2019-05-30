@@ -1,0 +1,21 @@
+﻿<Page x:Class="AnimElite.MainMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AnimElite"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="MainMenu">
+    
+    <StackPanel >
+
+        <DockPanel>
+            <TextBlock Text="Anim'Elite" Style="{StaticResource AnimeTitle}"  HorizontalAlignment="Center" VerticalAlignment="Top" />
+        </DockPanel>
+        
+        <Image Source="Image/test.png"  VerticalAlignment="Center" HorizontalAlignment="Center" MinHeight="100" MaxHeight="750" MaxWidth="750"/>
+
+
+    </StackPanel>
+</Page>
